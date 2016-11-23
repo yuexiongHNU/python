@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 print "hello world!"
 print "hello yuexiong"
 print "I like typing this"
